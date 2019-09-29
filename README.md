@@ -26,5 +26,5 @@ Guru is an employee development app that promotes a positive business climate by
 * sequelize
 * sequelize-cli
 
-[Visit Guru on Heroku](https://immense-taiga-16736.herokuapp.com/)
+[Visit Guru on Heroku](https://warm-chamber-35073.herokuapp.com/)
 
